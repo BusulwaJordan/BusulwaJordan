@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BusulwaJordan
 - 👀 I’m interested in coding, machine learning and AI
-- 🌱 I’m currently learning pyhton coding, and am pursuing a Computer Science degree.
-- 💞️ I’m looking to collaborate on many projects ahead of me.
+- 🌱 I’m currently learning python coding, and am pursuing a Computer Science degree.
+- 💞️ I’m looking to collaborate with wonderful world changers on many projects ahead.
 - 📫 How to reach me, email: busulwajordan088@gmail.com
 
 <!---
