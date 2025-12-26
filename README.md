@@ -1,5 +1,7 @@
 👋 Hi, I'm Busulwa Jordan
 
+My portfolio website: https://busulwajordan.github.io/portfolio/
+
 🚀 AI & Machine Learning Expert | Data Analyst | Agentic AI Innovator | Mobile App Developer
 
 I am a passionate software developer from Kampala, Uganda, specializing in Artificial Intelligence, Machine Learning, Data Analysis, and Mobile App Development. My goal is to build intelligent systems and real-world solutions that drive innovation in Africa and beyond.
